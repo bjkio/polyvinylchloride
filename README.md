@@ -1,6 +1,6 @@
 # Polyvinylchloride
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
+`PVC (Proxmox vCenter)` - Proxmox client built with VMware Clarity design system
 
 ## Development server
 
